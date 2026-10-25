@@ -104,6 +104,51 @@
 	</tr>
 </table>
 
+## MCP-серверы
+
+<p>Серверы, которые дают Claude и другим MCP-клиентам мои собственные инструменты. Два из них ещё и работают как размещённые коннекторы на том же сервере, что и сайты, со входом по OAuth.</p>
+
+<table>
+	<tr>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/aimuzov/thinks-mcp">thinks-mcp</a></h3>
+			<p>Пишет, отвечает и перефразирует твоим голосом, выученным по выгрузке Telegram и истории git: Claude получает замеренный стиль-профиль и твои настоящие сообщения, без API-ключей и без собственной генерации</p>
+			<p>
+				<a href="https://thinks-mcp.aimuzov.online"><img src="https://img.shields.io/website?url=https%3A%2F%2Fthinks-mcp.aimuzov.online&label=%D0%BA%D0%BE%D0%BD%D0%BD%D0%B5%D0%BA%D1%82%D0%BE%D1%80&up_message=thinks-mcp.aimuzov.online&up_color=2ea44f" alt="thinks-mcp.aimuzov.online"></a>
+				<a href="https://github.com/aimuzov/thinks-mcp/releases"><img src="https://img.shields.io/github/v/release/aimuzov/thinks-mcp?label=version" alt="Version"></a>
+				<a href="https://github.com/aimuzov/thinks-mcp/actions/workflows/release.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/thinks-mcp/release.yml?branch=main&label=release" alt="Release"></a>
+			</p>
+		</td>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/aimuzov/kaiten-mcp">kaiten-mcp</a></h3>
+			<p>Kaiten из любого MCP-клиента: пространства, доски, карточки, комментарии, чек-листы, учёт времени и планирование дня</p>
+			<p>
+				<a href="https://kaiten-mcp.aimuzov.online"><img src="https://img.shields.io/website?url=https%3A%2F%2Fkaiten-mcp.aimuzov.online&label=%D0%BA%D0%BE%D0%BD%D0%BD%D0%B5%D0%BA%D1%82%D0%BE%D1%80&up_message=kaiten-mcp.aimuzov.online&up_color=2ea44f" alt="kaiten-mcp.aimuzov.online"></a>
+				<a href="https://github.com/aimuzov/kaiten-mcp/releases"><img src="https://img.shields.io/github/v/release/aimuzov/kaiten-mcp?label=version" alt="Version"></a>
+				<a href="https://github.com/aimuzov/kaiten-mcp/actions/workflows/release.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/kaiten-mcp/release.yml?branch=main&label=release" alt="Release"></a>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/aimuzov/veo-mcp">veo-mcp</a></h3>
+			<p>Генерация видео в Google Veo через Gemini API: из текста и из картинки, MP4-файлы на диске</p>
+			<p>
+				<a href="https://github.com/aimuzov/veo-mcp/releases"><img src="https://img.shields.io/github/v/release/aimuzov/veo-mcp?label=version" alt="Version"></a>
+				<a href="https://github.com/aimuzov/veo-mcp/actions/workflows/check.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/veo-mcp/check.yml?branch=main&label=check" alt="Check"></a>
+			</p>
+		</td>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/aimuzov/zen-money-mcp">zen-money-mcp</a></h3>
+			<p>ZenMoney: проверяет и исправляет категории операций с оглядкой на историю, импортирует недостающие операции из банковских выписок</p>
+			<p>
+				<a href="https://github.com/aimuzov/zen-money-mcp/releases"><img src="https://img.shields.io/github/v/release/aimuzov/zen-money-mcp?label=version" alt="Version"></a>
+				<a href="https://github.com/aimuzov/zen-money-mcp/actions/workflows/check.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/zen-money-mcp/check.yml?branch=main&label=check" alt="Check"></a>
+			</p>
+		</td>
+	</tr>
+</table>
+
 ## Инфраструктура
 
 <table>
@@ -129,6 +174,21 @@
 			<h3><a href="https://github.com/aimuzov/infra-site-template">infra-site-template</a></h3>
 			<p>Шаблон, с которого начинается каждый новый сайт: Astro со Svelte, юнит-тесты на <code>node --test</code> и e2e на Playwright, воркфлоу проверок и деплоя поверх infra-site-kit, Docker и nginx в <code>deploy/</code>, место под API в <code>src/backend</code>.</p>
 			<p><a href="https://github.com/aimuzov/infra-site-template/generate"><img src="https://img.shields.io/badge/template-use%20this-2ea44f?logo=github" alt="Use this template"></a></p>
+		</td>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/aimuzov/infra-mcp-template">infra-mcp-template</a></h3>
+			<p>Шаблон, с которого начинается каждый новый MCP-сервер: stdio и размещённый коннектор с OAuth на infra-mcp-kit, страницы на Astro с островами на Svelte, воркфлоу проверок и релиза, публикация в npm, Docker в <code>deploy/</code>.</p>
+			<p><a href="https://github.com/aimuzov/infra-mcp-template/generate"><img src="https://img.shields.io/badge/template-use%20this-2ea44f?logo=github" alt="Use this template"></a></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/aimuzov/infra-mcp-kit">infra-mcp-kit</a></h3>
+			<p>Всё общее для MCP-серверов: ядро для stdio, размещённый коннектор с OAuth, страницы на Astro и тестовые хелперы, плюс экшены <code>check</code> и <code>publish</code>.</p>
+			<p>
+				<a href="https://github.com/aimuzov/infra-mcp-kit/actions/workflows/check.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/infra-mcp-kit/check.yml?branch=main&label=check" alt="Check"></a>
+				<a href="https://github.com/aimuzov/infra-mcp-kit/releases"><img src="https://img.shields.io/github/v/release/aimuzov/infra-mcp-kit?label=version" alt="Version"></a>
+			</p>
 		</td>
 		<td width="50%" valign="top"></td>
 	</tr>
