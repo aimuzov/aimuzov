@@ -73,7 +73,15 @@
 				<a href="https://github.com/aimuzov/sublya/actions/workflows/deploy.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/sublya/deploy.yml?branch=main&label=deploy" alt="Deploy"></a>
 			</p>
 		</td>
-		<td width="50%" valign="top"></td>
+		<td width="50%" valign="top">
+			<a href="https://github.com/aimuzov/sorebody"><img src="https://raw.githubusercontent.com/aimuzov/sorebody/main/.github/assets/banner.jpg" alt="Sorebody"></a>
+			<h3><a href="https://github.com/aimuzov/sorebody">Sorebody</a></h3>
+			<p>Справочник спортивной боли: как часто она бывает в кроссфите, паделе, футболе, беге, баскетболе и хайкинге, когда идти к врачу и как адаптировать тренировки</p>
+			<p>
+				<a href="https://sorebody.aimuzov.online"><img src="https://img.shields.io/website?url=https%3A%2F%2Fsorebody.aimuzov.online&label=%D1%81%D0%B0%D0%B9%D1%82&up_message=sorebody.aimuzov.online&up_color=2ea44f" alt="sorebody.aimuzov.online"></a>
+				<a href="https://github.com/aimuzov/sorebody/actions/workflows/deploy.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/sorebody/deploy.yml?branch=main&label=deploy" alt="Deploy"></a>
+			</p>
+		</td>
 	</tr>
 </table>
 
@@ -194,4 +202,4 @@
 	</tr>
 </table>
 
-<p align="center"><sub>Пуш в <code>main</code> → GitHub Actions с деплоем из infra-site-kit → SSH → <code>docker compose up</code> на сервере → Caddy отдаёт по HTTPS.</sub></p>
+<p align="center"><sub>Мёрж релизного PR от release-please → GitHub Actions с деплоем из infra-site-kit → SSH → <code>docker compose up</code> на сервере → Caddy отдаёт по HTTPS.</sub></p>
