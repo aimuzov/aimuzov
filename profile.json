@@ -1,0 +1,31 @@
+{
+	"owner": "aimuzov",
+	"readmes": ["README.md", "README.ru.md"],
+	"hidden": [
+		".github",
+		"aimuzov",
+		"binsight.fish",
+		"catppuccin-barista.nvim",
+		"claude-svelte-v4",
+		"codeinterview",
+		"dark-signal",
+		"dotfiles",
+		"keysight.fish",
+		"proxray",
+		"sketchybar-app-font",
+		"sketchybar-items",
+		"tg-undelete",
+		"tree-sitter-skhdrc",
+		"yc-completions.fish"
+	],
+	"todo": [
+		"infra-mcp-kit",
+		"infra-mcp-template",
+		"kaiten-mcp",
+		"sorebody",
+		"thinks-mcp",
+		"veo-mcp",
+		"wodlog",
+		"zen-money-mcp"
+	]
+}

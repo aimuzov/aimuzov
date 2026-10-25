@@ -1,0 +1,54 @@
+name: Check
+
+# Сверяет README с аккаунтом. На PR и push падает, если что-то сломано.
+# Раз в неделю держит открытым issue со списком расхождений, чтобы о них
+# не помнить, и закрывает его, когда профиль снова совпадает с репо.
+on:
+  pull_request:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 26
+
+      - id: check
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/check-profile.mjs --report report.md | tee -a "$GITHUB_STEP_SUMMARY"
+
+      # Отчёт нужен и тогда, когда проверка упала, поэтому `!cancelled()`.
+      - if: >-
+          !cancelled() && steps.check.outcome != 'skipped' &&
+          (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
+        env:
+          GH_TOKEN: ${{ github.token }}
+          DRIFT: ${{ steps.check.outputs.drift }}
+          TITLE: Profile README is out of date
+        run: |
+          number=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --search "\"$TITLE\" in:title" \
+            --json number --jq '.[0].number // empty')
+          if [[ $DRIFT == true ]]; then
+            if [[ -n $number ]]; then
+              gh issue edit "$number" --repo "$GITHUB_REPOSITORY" --body-file report.md
+            else
+              gh issue create --repo "$GITHUB_REPOSITORY" --title "$TITLE" --body-file report.md
+            fi
+          elif [[ -n $number ]]; then
+            gh issue close "$number" --repo "$GITHUB_REPOSITORY" --comment "The profile matches the repositories again."
+          fi
