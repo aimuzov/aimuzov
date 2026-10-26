@@ -157,6 +157,25 @@
 	</tr>
 </table>
 
+## macOS
+
+<p>A desktop app of its own, in Swift, apart from the web stack above.</p>
+
+<table>
+	<tr>
+		<td width="50%" valign="top">
+			<a href="https://github.com/aimuzov/kumiko"><img src="https://raw.githubusercontent.com/aimuzov/kumiko/main/.github/assets/banner.en.jpg" alt="kumiko"></a>
+			<h3><a href="https://github.com/aimuzov/kumiko">kumiko</a></h3>
+			<p>A tiling window manager for macOS in one app: workspaces, hotkeys and modes, a bar, a frame around the focused window and Vim in text fields, all set up from a settings window</p>
+			<p>
+				<a href="https://github.com/aimuzov/kumiko/releases"><img src="https://img.shields.io/github/v/release/aimuzov/kumiko?label=version" alt="Version"></a>
+				<a href="https://github.com/aimuzov/kumiko/actions/workflows/release.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/kumiko/release.yml?branch=main&label=release" alt="Release"></a>
+			</p>
+		</td>
+		<td width="50%" valign="top"></td>
+	</tr>
+</table>
+
 ## Infrastructure
 
 <table>

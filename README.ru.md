@@ -157,6 +157,25 @@
 	</tr>
 </table>
 
+## macOS
+
+<p>Отдельное приложение для Мака на Swift, в стороне от веб-стека выше.</p>
+
+<table>
+	<tr>
+		<td width="50%" valign="top">
+			<a href="https://github.com/aimuzov/kumiko"><img src="https://raw.githubusercontent.com/aimuzov/kumiko/main/.github/assets/banner.jpg" alt="kumiko"></a>
+			<h3><a href="https://github.com/aimuzov/kumiko">kumiko</a></h3>
+			<p>Тайлинговый менеджер окон для macOS одним приложением: рабочие столы, хоткеи и режимы, бар, рамка вокруг окна в фокусе и Vim в текстовых полях, и всё это настраивается в окне настроек</p>
+			<p>
+				<a href="https://github.com/aimuzov/kumiko/releases"><img src="https://img.shields.io/github/v/release/aimuzov/kumiko?label=version" alt="Version"></a>
+				<a href="https://github.com/aimuzov/kumiko/actions/workflows/release.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/kumiko/release.yml?branch=main&label=release" alt="Release"></a>
+			</p>
+		</td>
+		<td width="50%" valign="top"></td>
+	</tr>
+</table>
+
 ## Инфраструктура
 
 <table>
