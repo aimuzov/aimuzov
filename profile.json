@@ -10,6 +10,7 @@
 		"codeinterview",
 		"dark-signal",
 		"dotfiles",
+		"homebrew-tap",
 		"keysight.fish",
 		"proxray",
 		"sketchybar-app-font",
@@ -19,6 +20,7 @@
 		"yc-completions.fish"
 	],
 	"todo": [
+		"kumiko-site",
 		"peeshet",
 		"wodlog"
 	]
