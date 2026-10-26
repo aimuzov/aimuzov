@@ -119,6 +119,7 @@
 <table>
 	<tr>
 		<td width="50%" valign="top">
+			<a href="https://github.com/aimuzov/thinks-mcp"><img src="https://raw.githubusercontent.com/aimuzov/thinks-mcp/main/.github/assets/banner.jpg" alt="thinks-mcp"></a>
 			<h3><a href="https://github.com/aimuzov/thinks-mcp">thinks-mcp</a></h3>
 			<p>Пишет, отвечает и перефразирует твоим голосом, выученным по выгрузке Telegram и истории git: Claude получает замеренный стиль-профиль и твои настоящие сообщения, без API-ключей и без собственной генерации</p>
 			<p>
@@ -128,6 +129,7 @@
 			</p>
 		</td>
 		<td width="50%" valign="top">
+			<a href="https://github.com/aimuzov/kaiten-mcp"><img src="https://raw.githubusercontent.com/aimuzov/kaiten-mcp/main/.github/assets/banner.jpg" alt="kaiten-mcp"></a>
 			<h3><a href="https://github.com/aimuzov/kaiten-mcp">kaiten-mcp</a></h3>
 			<p>Kaiten из любого MCP-клиента: пространства, доски, карточки, комментарии, чек-листы, учёт времени и планирование дня</p>
 			<p>
@@ -139,19 +141,21 @@
 	</tr>
 	<tr>
 		<td width="50%" valign="top">
+			<a href="https://github.com/aimuzov/veo-mcp"><img src="https://raw.githubusercontent.com/aimuzov/veo-mcp/main/.github/assets/banner.jpg" alt="veo-mcp"></a>
 			<h3><a href="https://github.com/aimuzov/veo-mcp">veo-mcp</a></h3>
 			<p>Генерация видео в Google Veo через Gemini API: из текста и из картинки, MP4-файлы на диске</p>
 			<p>
 				<a href="https://github.com/aimuzov/veo-mcp/releases"><img src="https://img.shields.io/github/v/release/aimuzov/veo-mcp?label=version" alt="Version"></a>
-				<a href="https://github.com/aimuzov/veo-mcp/actions/workflows/check.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/veo-mcp/check.yml?branch=main&label=check" alt="Check"></a>
+				<a href="https://github.com/aimuzov/veo-mcp/actions/workflows/release.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/veo-mcp/release.yml?branch=main&label=release" alt="Release"></a>
 			</p>
 		</td>
 		<td width="50%" valign="top">
+			<a href="https://github.com/aimuzov/zen-money-mcp"><img src="https://raw.githubusercontent.com/aimuzov/zen-money-mcp/main/.github/assets/banner.jpg" alt="zen-money-mcp"></a>
 			<h3><a href="https://github.com/aimuzov/zen-money-mcp">zen-money-mcp</a></h3>
 			<p>ZenMoney: проверяет и исправляет категории операций с оглядкой на историю, импортирует недостающие операции из банковских выписок</p>
 			<p>
 				<a href="https://github.com/aimuzov/zen-money-mcp/releases"><img src="https://img.shields.io/github/v/release/aimuzov/zen-money-mcp?label=version" alt="Version"></a>
-				<a href="https://github.com/aimuzov/zen-money-mcp/actions/workflows/check.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/zen-money-mcp/check.yml?branch=main&label=check" alt="Check"></a>
+				<a href="https://github.com/aimuzov/zen-money-mcp/actions/workflows/release.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/zen-money-mcp/release.yml?branch=main&label=release" alt="Release"></a>
 			</p>
 		</td>
 	</tr>
