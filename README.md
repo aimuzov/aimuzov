@@ -179,13 +179,10 @@
 	</tr>
 	<tr>
 		<td width="50%" valign="top">
-			<a href="https://github.com/aimuzov/infra-mcp-kit"><img src="https://raw.githubusercontent.com/aimuzov/infra-mcp-kit/main/.github/assets/banner.en.jpg" alt="infra-mcp-kit"></a>
-			<h3><a href="https://github.com/aimuzov/infra-mcp-kit">infra-mcp-kit</a></h3>
-			<p>What every MCP server shares: the stdio core, the hosted OAuth connector, Astro pages and test helpers, plus the <code>check</code> and <code>publish</code> actions.</p>
-			<p>
-				<a href="https://github.com/aimuzov/infra-mcp-kit/actions/workflows/check.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/infra-mcp-kit/check.yml?branch=main&label=check" alt="Check"></a>
-				<a href="https://github.com/aimuzov/infra-mcp-kit/releases"><img src="https://img.shields.io/github/v/release/aimuzov/infra-mcp-kit?label=version" alt="Version"></a>
-			</p>
+			<a href="https://github.com/aimuzov/infra-site-template"><img src="assets/infra-site-template.en.jpg" alt="infra-site-template"></a>
+			<h3><a href="https://github.com/aimuzov/infra-site-template">infra-site-template</a></h3>
+			<p>The template every new site starts from: Astro with Svelte, unit tests on <code>node --test</code> and Playwright e2e, check and deploy workflows on top of infra-site-kit, Docker and nginx in <code>deploy/</code>, room for an API in <code>src/backend</code>.</p>
+			<p><a href="https://github.com/aimuzov/infra-site-template/generate"><img src="https://img.shields.io/badge/template-use%20this-2ea44f?logo=github" alt="Use this template"></a></p>
 		</td>
 		<td width="50%" valign="top">
 			<a href="https://github.com/aimuzov/infra-mcp-template"><img src="https://raw.githubusercontent.com/aimuzov/infra-mcp-template/main/.github/assets/banner.en.jpg" alt="infra-mcp-template"></a>
@@ -196,9 +193,13 @@
 	</tr>
 	<tr>
 		<td width="50%" valign="top">
-			<h3><a href="https://github.com/aimuzov/infra-site-template">infra-site-template</a></h3>
-			<p>The template every new site starts from: Astro with Svelte, unit tests on <code>node --test</code> and Playwright e2e, check and deploy workflows on top of infra-site-kit, Docker and nginx in <code>deploy/</code>, room for an API in <code>src/backend</code>.</p>
-			<p><a href="https://github.com/aimuzov/infra-site-template/generate"><img src="https://img.shields.io/badge/template-use%20this-2ea44f?logo=github" alt="Use this template"></a></p>
+			<a href="https://github.com/aimuzov/infra-mcp-kit"><img src="https://raw.githubusercontent.com/aimuzov/infra-mcp-kit/main/.github/assets/banner.en.jpg" alt="infra-mcp-kit"></a>
+			<h3><a href="https://github.com/aimuzov/infra-mcp-kit">infra-mcp-kit</a></h3>
+			<p>What every MCP server shares: the stdio core, the hosted OAuth connector, Astro pages and test helpers, plus the <code>check</code> and <code>publish</code> actions.</p>
+			<p>
+				<a href="https://github.com/aimuzov/infra-mcp-kit/actions/workflows/check.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/infra-mcp-kit/check.yml?branch=main&label=check" alt="Check"></a>
+				<a href="https://github.com/aimuzov/infra-mcp-kit/releases"><img src="https://img.shields.io/github/v/release/aimuzov/infra-mcp-kit?label=version" alt="Version"></a>
+			</p>
 		</td>
 		<td width="50%" valign="top"></td>
 	</tr>

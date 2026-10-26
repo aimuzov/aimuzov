@@ -179,13 +179,10 @@
 	</tr>
 	<tr>
 		<td width="50%" valign="top">
-			<a href="https://github.com/aimuzov/infra-mcp-kit"><img src="https://raw.githubusercontent.com/aimuzov/infra-mcp-kit/main/.github/assets/banner.jpg" alt="infra-mcp-kit"></a>
-			<h3><a href="https://github.com/aimuzov/infra-mcp-kit">infra-mcp-kit</a></h3>
-			<p>Всё общее для MCP-серверов: ядро для stdio, размещённый коннектор с OAuth, страницы на Astro и тестовые хелперы, плюс экшены <code>check</code> и <code>publish</code>.</p>
-			<p>
-				<a href="https://github.com/aimuzov/infra-mcp-kit/actions/workflows/check.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/infra-mcp-kit/check.yml?branch=main&label=check" alt="Check"></a>
-				<a href="https://github.com/aimuzov/infra-mcp-kit/releases"><img src="https://img.shields.io/github/v/release/aimuzov/infra-mcp-kit?label=version" alt="Version"></a>
-			</p>
+			<a href="https://github.com/aimuzov/infra-site-template"><img src="assets/infra-site-template.jpg" alt="infra-site-template"></a>
+			<h3><a href="https://github.com/aimuzov/infra-site-template">infra-site-template</a></h3>
+			<p>Шаблон, с которого начинается каждый новый сайт: Astro со Svelte, юнит-тесты на <code>node --test</code> и e2e на Playwright, воркфлоу проверок и деплоя поверх infra-site-kit, Docker и nginx в <code>deploy/</code>, место под API в <code>src/backend</code>.</p>
+			<p><a href="https://github.com/aimuzov/infra-site-template/generate"><img src="https://img.shields.io/badge/template-use%20this-2ea44f?logo=github" alt="Use this template"></a></p>
 		</td>
 		<td width="50%" valign="top">
 			<a href="https://github.com/aimuzov/infra-mcp-template"><img src="https://raw.githubusercontent.com/aimuzov/infra-mcp-template/main/.github/assets/banner.jpg" alt="infra-mcp-template"></a>
@@ -196,9 +193,13 @@
 	</tr>
 	<tr>
 		<td width="50%" valign="top">
-			<h3><a href="https://github.com/aimuzov/infra-site-template">infra-site-template</a></h3>
-			<p>Шаблон, с которого начинается каждый новый сайт: Astro со Svelte, юнит-тесты на <code>node --test</code> и e2e на Playwright, воркфлоу проверок и деплоя поверх infra-site-kit, Docker и nginx в <code>deploy/</code>, место под API в <code>src/backend</code>.</p>
-			<p><a href="https://github.com/aimuzov/infra-site-template/generate"><img src="https://img.shields.io/badge/template-use%20this-2ea44f?logo=github" alt="Use this template"></a></p>
+			<a href="https://github.com/aimuzov/infra-mcp-kit"><img src="https://raw.githubusercontent.com/aimuzov/infra-mcp-kit/main/.github/assets/banner.jpg" alt="infra-mcp-kit"></a>
+			<h3><a href="https://github.com/aimuzov/infra-mcp-kit">infra-mcp-kit</a></h3>
+			<p>Всё общее для MCP-серверов: ядро для stdio, размещённый коннектор с OAuth, страницы на Astro и тестовые хелперы, плюс экшены <code>check</code> и <code>publish</code>.</p>
+			<p>
+				<a href="https://github.com/aimuzov/infra-mcp-kit/actions/workflows/check.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/infra-mcp-kit/check.yml?branch=main&label=check" alt="Check"></a>
+				<a href="https://github.com/aimuzov/infra-mcp-kit/releases"><img src="https://img.shields.io/github/v/release/aimuzov/infra-mcp-kit?label=version" alt="Version"></a>
+			</p>
 		</td>
 		<td width="50%" valign="top"></td>
 	</tr>
