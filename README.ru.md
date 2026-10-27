@@ -172,11 +172,20 @@
 			<h3><a href="https://github.com/aimuzov/kumiko">kumiko</a></h3>
 			<p>Тайлинговый менеджер окон для macOS одним приложением: рабочие столы, хоткеи и режимы, бар, рамка вокруг окна в фокусе и Vim в текстовых полях, и всё это настраивается в окне настроек</p>
 			<p>
+				<a href="https://kumiko.aimuzov.online"><img src="https://img.shields.io/website?url=https%3A%2F%2Fkumiko.aimuzov.online&label=site&up_message=kumiko.aimuzov.online&up_color=2ea44f" alt="kumiko.aimuzov.online"></a>
 				<a href="https://github.com/aimuzov/kumiko/releases"><img src="https://img.shields.io/github/v/release/aimuzov/kumiko?label=version" alt="Version"></a>
 				<a href="https://github.com/aimuzov/kumiko/actions/workflows/release.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/kumiko/release.yml?branch=main&label=release" alt="Release"></a>
 			</p>
 		</td>
-		<td width="50%" valign="top"></td>
+		<td width="50%" valign="top">
+			<a href="https://github.com/aimuzov/kumiko-site"><img src="https://raw.githubusercontent.com/aimuzov/kumiko-site/main/.github/assets/banner.jpg" alt="kumiko-site"></a>
+			<h3><a href="https://github.com/aimuzov/kumiko-site">kumiko-site</a></h3>
+			<p>Лендинг kumiko: рабочий стол, который слушается клавиш kumiko, шесть утилит, слетающихся в одну иконку, окна, встающие плиткой в финале, и ченжлог каждого релиза</p>
+			<p>
+				<a href="https://kumiko.aimuzov.online"><img src="https://img.shields.io/website?url=https%3A%2F%2Fkumiko.aimuzov.online&label=site&up_message=kumiko.aimuzov.online&up_color=2ea44f" alt="kumiko.aimuzov.online"></a>
+				<a href="https://github.com/aimuzov/kumiko-site/actions/workflows/deploy.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/kumiko-site/deploy.yml?branch=main&label=deploy" alt="Deploy"></a>
+			</p>
+		</td>
 	</tr>
 </table>
 
@@ -187,7 +196,7 @@
 		<td width="50%" valign="top">
 			<a href="https://github.com/aimuzov/infra-site-kit"><img src="https://raw.githubusercontent.com/aimuzov/infra-site-kit/main/.github/assets/banner.jpg" alt="infra-site-kit"></a>
 			<h3><a href="https://github.com/aimuzov/infra-site-kit">infra-site-kit</a></h3>
-			<p>Всё общее для сайтов: экшены <code>check</code>, <code>release</code> и <code>deploy</code>, конфиги Prettier, Stylelint, oxlint и Playwright, подпись автора, подсмотр темы и Яндекс Метрика.</p>
+			<p>Всё общее для сайтов: экшены <code>check</code>, <code>release</code> и <code>deploy</code>, конфиги Prettier, Stylelint, oxlint и Playwright, два языка, UI-компоненты, подсмотр темы, страница 404, подпись автора, Яндекс Метрика и ченжлог для читателя, который ведут и приложения вроде kumiko.</p>
 			<p>
 				<a href="https://github.com/aimuzov/infra-site-kit/actions/workflows/check.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/infra-site-kit/check.yml?branch=main&label=check" alt="Check"></a>
 				<a href="https://github.com/aimuzov/infra-site-kit/tags"><img src="https://img.shields.io/github/v/tag/aimuzov/infra-site-kit?sort=semver&label=version" alt="Version"></a>
