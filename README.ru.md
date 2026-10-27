@@ -26,7 +26,7 @@
 		<td width="50%" valign="top">
 			<a href="https://github.com/aimuzov/codenames"><img src="https://raw.githubusercontent.com/aimuzov/codenames/main/.github/assets/banner.jpg" alt="Codenames"></a>
 			<h3><a href="https://github.com/aimuzov/codenames">Codenames</a></h3>
-			<p>Офлайн-игра в слова: один телефон на столе, комната по коду или телефон к телефону через WebRTC</p>
+			<p>Игра в слова для компании: один телефон на столе, телефон к телефону через WebRTC или онлайн-комната по коду с голосовым чатом</p>
 			<p>
 				<a href="https://codenames.aimuzov.online"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcodenames.aimuzov.online&label=%D1%81%D0%B0%D0%B9%D1%82&up_message=codenames.aimuzov.online&up_color=2ea44f" alt="codenames.aimuzov.online"></a>
 				<a href="https://github.com/aimuzov/codenames/actions/workflows/deploy.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/codenames/deploy.yml?branch=main&label=deploy" alt="Deploy"></a>

@@ -26,7 +26,7 @@
 		<td width="50%" valign="top">
 			<a href="https://github.com/aimuzov/codenames"><img src="https://raw.githubusercontent.com/aimuzov/codenames/main/.github/assets/banner.en.jpg" alt="Codenames"></a>
 			<h3><a href="https://github.com/aimuzov/codenames">Codenames</a></h3>
-			<p>Offline party word game: one phone on the table, a room code, or phone-to-phone over WebRTC</p>
+			<p>Party word game: one phone on the table, phone-to-phone over WebRTC, or an online room by code with voice chat</p>
 			<p>
 				<a href="https://codenames.aimuzov.online"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcodenames.aimuzov.online&label=site&up_message=codenames.aimuzov.online&up_color=2ea44f" alt="codenames.aimuzov.online"></a>
 				<a href="https://github.com/aimuzov/codenames/actions/workflows/deploy.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/codenames/deploy.yml?branch=main&label=deploy" alt="Deploy"></a>
