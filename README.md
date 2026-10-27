@@ -172,11 +172,20 @@
 			<h3><a href="https://github.com/aimuzov/kumiko">kumiko</a></h3>
 			<p>A tiling window manager for macOS in one app: workspaces, hotkeys and modes, a bar, a frame around the focused window and Vim in text fields, all set up from a settings window</p>
 			<p>
+				<a href="https://kumiko.aimuzov.online"><img src="https://img.shields.io/website?url=https%3A%2F%2Fkumiko.aimuzov.online&label=site&up_message=kumiko.aimuzov.online&up_color=2ea44f" alt="kumiko.aimuzov.online"></a>
 				<a href="https://github.com/aimuzov/kumiko/releases"><img src="https://img.shields.io/github/v/release/aimuzov/kumiko?label=version" alt="Version"></a>
 				<a href="https://github.com/aimuzov/kumiko/actions/workflows/release.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/kumiko/release.yml?branch=main&label=release" alt="Release"></a>
 			</p>
 		</td>
-		<td width="50%" valign="top"></td>
+		<td width="50%" valign="top">
+			<a href="https://github.com/aimuzov/kumiko-site"><img src="https://raw.githubusercontent.com/aimuzov/kumiko-site/main/.github/assets/banner.en.jpg" alt="kumiko-site"></a>
+			<h3><a href="https://github.com/aimuzov/kumiko-site">kumiko-site</a></h3>
+			<p>The kumiko landing page: a desktop that answers the kumiko keys, six tools flying into one icon, the windows tiling in the finale and the reader changelog of each release</p>
+			<p>
+				<a href="https://kumiko.aimuzov.online"><img src="https://img.shields.io/website?url=https%3A%2F%2Fkumiko.aimuzov.online&label=site&up_message=kumiko.aimuzov.online&up_color=2ea44f" alt="kumiko.aimuzov.online"></a>
+				<a href="https://github.com/aimuzov/kumiko-site/actions/workflows/deploy.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/kumiko-site/deploy.yml?branch=main&label=deploy" alt="Deploy"></a>
+			</p>
+		</td>
 	</tr>
 </table>
 
