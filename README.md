@@ -196,7 +196,7 @@
 		<td width="50%" valign="top">
 			<a href="https://github.com/aimuzov/infra-site-kit"><img src="https://raw.githubusercontent.com/aimuzov/infra-site-kit/main/.github/assets/banner.en.jpg" alt="infra-site-kit"></a>
 			<h3><a href="https://github.com/aimuzov/infra-site-kit">infra-site-kit</a></h3>
-			<p>What every site shares: the <code>check</code>, <code>release</code> and <code>deploy</code> actions, Prettier, Stylelint, oxlint and Playwright configs, the author credit, the theme peek and Yandex Metrika.</p>
+			<p>What every site shares: the <code>check</code>, <code>release</code> and <code>deploy</code> actions, Prettier, Stylelint, oxlint and Playwright configs, two languages, UI components, the theme peek, the 404 page, the author credit, Yandex Metrika and a reader changelog that apps like kumiko keep too.</p>
 			<p>
 				<a href="https://github.com/aimuzov/infra-site-kit/actions/workflows/check.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/infra-site-kit/check.yml?branch=main&label=check" alt="Check"></a>
 				<a href="https://github.com/aimuzov/infra-site-kit/tags"><img src="https://img.shields.io/github/v/tag/aimuzov/infra-site-kit?sort=semver&label=version" alt="Version"></a>

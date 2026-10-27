@@ -196,7 +196,7 @@
 		<td width="50%" valign="top">
 			<a href="https://github.com/aimuzov/infra-site-kit"><img src="https://raw.githubusercontent.com/aimuzov/infra-site-kit/main/.github/assets/banner.jpg" alt="infra-site-kit"></a>
 			<h3><a href="https://github.com/aimuzov/infra-site-kit">infra-site-kit</a></h3>
-			<p>Всё общее для сайтов: экшены <code>check</code>, <code>release</code> и <code>deploy</code>, конфиги Prettier, Stylelint, oxlint и Playwright, подпись автора, подсмотр темы и Яндекс Метрика.</p>
+			<p>Всё общее для сайтов: экшены <code>check</code>, <code>release</code> и <code>deploy</code>, конфиги Prettier, Stylelint, oxlint и Playwright, два языка, UI-компоненты, подсмотр темы, страница 404, подпись автора, Яндекс Метрика и ченжлог для читателя, который ведут и приложения вроде kumiko.</p>
 			<p>
 				<a href="https://github.com/aimuzov/infra-site-kit/actions/workflows/check.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/infra-site-kit/check.yml?branch=main&label=check" alt="Check"></a>
 				<a href="https://github.com/aimuzov/infra-site-kit/tags"><img src="https://img.shields.io/github/v/tag/aimuzov/infra-site-kit?sort=semver&label=version" alt="Version"></a>
