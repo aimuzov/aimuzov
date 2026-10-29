@@ -191,7 +191,7 @@
 
 ## Command line
 
-<p>Small tools for the terminal, in plain POSIX sh with completions for fish.</p>
+<p>Small tools for the terminal: a native fish function and a POSIX sh twin for every other shell.</p>
 
 <table>
 	<tr>
