@@ -189,6 +189,22 @@
 	</tr>
 </table>
 
+## Command line
+
+<p>Small tools for the terminal, in plain POSIX sh with completions for fish.</p>
+
+<table>
+	<tr>
+		<td width="50%" valign="top">
+			<a href="https://github.com/aimuzov/claude-export"><img src="https://raw.githubusercontent.com/aimuzov/claude-export/main/.github/assets/banner.en.jpg" alt="claude-export"></a>
+			<h3><a href="https://github.com/aimuzov/claude-export">claude-export</a></h3>
+			<p>Turns a claude.ai data export into a folder on your disk: opens every archive link in your browser, waits for the download, checks the zip and unpacks it by category</p>
+			<p><a href="https://github.com/aimuzov/claude-export/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/claude-export/ci.yml?branch=main&label=ci" alt="CI"></a></p>
+		</td>
+		<td width="50%" valign="top"></td>
+	</tr>
+</table>
+
 ## Infrastructure
 
 <table>
