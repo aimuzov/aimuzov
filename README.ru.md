@@ -189,6 +189,22 @@
 	</tr>
 </table>
 
+## Командная строка
+
+<p>Небольшие инструменты для терминала: на чистом POSIX sh, с автодополнением для fish.</p>
+
+<table>
+	<tr>
+		<td width="50%" valign="top">
+			<a href="https://github.com/aimuzov/claude-export"><img src="https://raw.githubusercontent.com/aimuzov/claude-export/main/.github/assets/banner.jpg" alt="claude-export"></a>
+			<h3><a href="https://github.com/aimuzov/claude-export">claude-export</a></h3>
+			<p>Превращает экспорт данных claude.ai в папку на диске: открывает каждую ссылку на архив в браузере, ждёт загрузку, проверяет zip и раскладывает по категориям</p>
+			<p><a href="https://github.com/aimuzov/claude-export/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/claude-export/ci.yml?branch=main&label=ci" alt="CI"></a></p>
+		</td>
+		<td width="50%" valign="top"></td>
+	</tr>
+</table>
+
 ## Инфраструктура
 
 <table>
