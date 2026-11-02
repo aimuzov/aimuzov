@@ -8,7 +8,7 @@
 </p>
 
 <p align="center"><b>Небольшие веб-продукты <a href="https://github.com/aimuzov">Алексея Имузова</a></b></p>
-<p align="center">Статичные сайты на Astro с островами на Svelte, маленьким Node-API или Telegram-ботом, каждый в своём Docker Compose за общим Caddy</p>
+<p align="center">Сайты на Astro с компонентами на Svelte, Node-API или Telegram-ботом, каждый в своём Docker Compose за общим Caddy</p>
 
 <p align="center">
 	<a href="https://astro.build"><img src="https://img.shields.io/badge/Astro-bc52ee?logo=astro&logoColor=white" alt="Astro"></a>
