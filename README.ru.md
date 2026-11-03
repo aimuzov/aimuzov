@@ -250,7 +250,7 @@
 			</p>
 		</td>
 		<td width="50%" valign="top">
-			<a href="https://github.com/aimuzov/chatmeld"><img src="https://raw.githubusercontent.com/aimuzov/chatmeld/main/.github/assets/banner.png" alt="Chatmeld"></a>
+			<a href="https://github.com/aimuzov/chatmeld"><img src="https://raw.githubusercontent.com/aimuzov/chatmeld/main/.github/assets/banner.jpg" alt="Chatmeld"></a>
 			<h3><a href="https://github.com/aimuzov/chatmeld">Chatmeld</a></h3>
 			<p>Библиотека TypeScript для личных аккаунтов Telegram, MAX, WhatsApp и VK: QR-вход, отправка и приём сообщений, хранение сессий на стороне проекта-потребителя.</p>
 			<p><a href="https://github.com/aimuzov/chatmeld/actions/workflows/check.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/chatmeld/check.yml?branch=main&label=check" alt="Check"></a></p>
