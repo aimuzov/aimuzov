@@ -243,7 +243,7 @@
 		<td width="50%" valign="top">
 			<a href="https://github.com/aimuzov/infra-mcp-kit"><img src="https://raw.githubusercontent.com/aimuzov/infra-mcp-kit/main/.github/assets/banner.jpg" alt="infra-mcp-kit"></a>
 			<h3><a href="https://github.com/aimuzov/infra-mcp-kit">infra-mcp-kit</a></h3>
-			<p>Всё общее для MCP-серверов: ядро для stdio, размещённый коннектор с OAuth, страницы на Astro и тестовые хелперы, плюс экшены <code>check</code> и <code>publish</code>.</p>
+			<p>Всё общее для MCP-серверов: ядро для stdio, размещённые OAuth-коннекторы для ChatGPT и Claude, страницы на Astro и тестовые хелперы, плюс экшены <code>check</code> и <code>publish</code>.</p>
 			<p>
 				<a href="https://github.com/aimuzov/infra-mcp-kit/actions/workflows/check.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/infra-mcp-kit/check.yml?branch=main&label=check" alt="Check"></a>
 				<a href="https://github.com/aimuzov/infra-mcp-kit/releases"><img src="https://img.shields.io/github/v/release/aimuzov/infra-mcp-kit?label=version" alt="Version"></a>

@@ -243,7 +243,7 @@
 		<td width="50%" valign="top">
 			<a href="https://github.com/aimuzov/infra-mcp-kit"><img src="https://raw.githubusercontent.com/aimuzov/infra-mcp-kit/main/.github/assets/banner.en.jpg" alt="infra-mcp-kit"></a>
 			<h3><a href="https://github.com/aimuzov/infra-mcp-kit">infra-mcp-kit</a></h3>
-			<p>What every MCP server shares: the stdio core, the hosted OAuth connector, Astro pages and test helpers, plus the <code>check</code> and <code>publish</code> actions.</p>
+			<p>What every MCP server shares: the stdio core, hosted OAuth connectors for ChatGPT and Claude, Astro pages and test helpers, plus the <code>check</code> and <code>publish</code> actions.</p>
 			<p>
 				<a href="https://github.com/aimuzov/infra-mcp-kit/actions/workflows/check.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/infra-mcp-kit/check.yml?branch=main&label=check" alt="Check"></a>
 				<a href="https://github.com/aimuzov/infra-mcp-kit/releases"><img src="https://img.shields.io/github/v/release/aimuzov/infra-mcp-kit?label=version" alt="Version"></a>
