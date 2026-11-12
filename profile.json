@@ -1,6 +1,9 @@
 {
 	"owner": "aimuzov",
-	"readmes": ["README.md", "README.ru.md"],
+	"readmes": [
+		"README.md",
+		"README.ru.md"
+	],
 	"hidden": [
 		".github",
 		"aimuzov",
@@ -13,6 +16,7 @@
 		"homebrew-tap",
 		"keysight.fish",
 		"proxray",
+		"pufikmebel",
 		"sketchybar-app-font",
 		"sketchybar-items",
 		"tg-undelete",
@@ -22,6 +26,7 @@
 	"todo": [
 		"peeshet",
 		"wodlog",
-		"infra-node-kit"
+		"infra-node-kit",
+		"infra-ci"
 	]
 }
