@@ -87,7 +87,7 @@
 		<td width="50%" valign="top">
 			<a href="https://github.com/aimuzov/transcalc"><img src="https://raw.githubusercontent.com/aimuzov/transcalc/main/.github/assets/banner.jpg" alt="Транскальк"></a>
 			<h3><a href="https://github.com/aimuzov/transcalc">Транскальк</a></h3>
-			<p>Калькулятор стоимости грузоперевозок из Москвы и обратно, с локальными тарифами и сравнением НДС</p>
+			<p>Калькулятор грузоперевозок: выбор двух городов, опубликованные региональные тарифы и сравнение НДС, расчёт работает автономно</p>
 			<p>
 				<a href="https://transcalc.aimuzov.online"><img src="https://img.shields.io/website?url=https%3A%2F%2Ftranscalc.aimuzov.online&label=site&up_message=transcalc.aimuzov.online&up_color=2ea44f" alt="transcalc.aimuzov.online"></a>
 				<a href="https://github.com/aimuzov/transcalc/actions/workflows/deploy.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/transcalc/deploy.yml?branch=main&label=deploy" alt="Deploy"></a>
