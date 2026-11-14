@@ -87,8 +87,9 @@
 		<td width="50%" valign="top">
 			<a href="https://github.com/aimuzov/transcalc"><img src="https://raw.githubusercontent.com/aimuzov/transcalc/main/.github/assets/banner.en.jpg" alt="Transcalc"></a>
 			<h3><a href="https://github.com/aimuzov/transcalc">Transcalc</a></h3>
-			<p>Freight cost calculator: choose two cities, compare published regional tariffs and VAT options, with calculations running locally</p>
+			<p>Freight cost calculator: choose two cities, compare published regional tariffs and VAT options locally, in a light or dark theme</p>
 			<p>
+				<a href="https://transcalc.aimuzov.online/changelog/">Updates</a>
 				<a href="https://transcalc.aimuzov.online"><img src="https://img.shields.io/website?url=https%3A%2F%2Ftranscalc.aimuzov.online&label=site&up_message=transcalc.aimuzov.online&up_color=2ea44f" alt="transcalc.aimuzov.online"></a>
 				<a href="https://github.com/aimuzov/transcalc/actions/workflows/deploy.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/transcalc/deploy.yml?branch=main&label=deploy" alt="Deploy"></a>
 			</p>
