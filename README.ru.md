@@ -173,6 +173,19 @@
 	</tr>
 </table>
 
+## Моды для игр
+
+<table>
+	<tr>
+		<td width="50%" valign="top">
+			<a href="https://github.com/aimuzov/brotato-insight-toolkit"><img src="https://raw.githubusercontent.com/aimuzov/brotato-insight-toolkit/main/.github/banner.png" alt="Brotato Insight Toolkit"></a>
+			<h3><a href="https://github.com/aimuzov/brotato-insight-toolkit">Brotato Insight Toolkit</a></h3>
+			<p>Мод для Brotato: урон оружия, рекомендации по сборке, итоговые значения параметров и настраиваемые улучшения интерфейса</p>
+		</td>
+		<td width="50%" valign="top"></td>
+	</tr>
+</table>
+
 ## macOS
 
 <p>Отдельное приложение для Мака на Swift, в стороне от веб-стека выше.</p>
