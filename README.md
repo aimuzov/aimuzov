@@ -173,6 +173,19 @@
 	</tr>
 </table>
 
+## Game mods
+
+<table>
+	<tr>
+		<td width="50%" valign="top">
+			<a href="https://github.com/aimuzov/brotato-insight-toolkit"><img src="https://raw.githubusercontent.com/aimuzov/brotato-insight-toolkit/main/.github/banner.png" alt="Brotato Insight Toolkit"></a>
+			<h3><a href="https://github.com/aimuzov/brotato-insight-toolkit">Brotato Insight Toolkit</a></h3>
+			<p>A Brotato mod with weapon damage tracking, build advice, stat previews and optional interface improvements</p>
+		</td>
+		<td width="50%" valign="top"></td>
+	</tr>
+</table>
+
 ## macOS
 
 <p>A desktop app of its own, in Swift, apart from the web stack above.</p>
