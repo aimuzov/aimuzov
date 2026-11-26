@@ -106,7 +106,7 @@
 		<td width="50%" valign="top">
 			<a href="https://github.com/lazyvimx/nvim"><img src="https://raw.githubusercontent.com/lazyvimx/nvim/main/.github/assets/banner.jpg" alt="lazyvimx"></a>
 			<h3><a href="https://github.com/lazyvimx/nvim">lazyvimx</a></h3>
-			<p>Слой улучшений поверх LazyVim: опциональные экстры и оверрайды плагинов, русская раскладка в комплекте</p>
+			<p>Опциональные экстры и оверрайды для LazyVim, включая поддержку русской раскладки и защиту от одновременного обновления плагинов на macOS</p>
 			<p>
 				<a href="https://github.com/lazyvimx/nvim/releases"><img src="https://img.shields.io/github/v/release/lazyvimx/nvim?label=version" alt="Version"></a>
 				<a href="https://github.com/lazyvimx/nvim/actions/workflows/release.yml"><img src="https://img.shields.io/github/actions/workflow/status/lazyvimx/nvim/release.yml?branch=main&label=release" alt="Release"></a>
